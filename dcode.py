@@ -15,7 +15,7 @@ async def on_ready():
 async def on_reaction_add(reaction, user):
     if not user.bot:
         if reaction.emoji=='✅':
-            baby=client.get_channel(941338679409004594)
+            baby=client.get_channel(confesschannel code)
             await baby.send(reaction.message.content)
             await reaction.message.delete()
         if reaction.emoji=='❎':
@@ -25,7 +25,7 @@ async def on_reaction_add(reaction, user):
 @commands.dm_only()
 async def confess(ctx,*,message):
     await ctx.send('Your confesssion will be posted anonymously after verification by the admins. The admins won\'t be able to know your identity.')
-    jojo = client.get_channel(941338618843242566)
+    jojo = client.get_channel(approval code)
     message1 = await jojo.send(f'{message}')
     for emoji in list1:
         await message1.add_reaction(emoji)
