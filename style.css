@@ -1,0 +1,236 @@
+@import url(https://fonts.googleapis.com/%22%3E);
+
+.mainimage{
+    position: absolute;
+    width: 831px;
+    height: 634px;
+    left: 609px;
+    top: 150px;
+    
+}
+
+.homeicon{
+position: absolute;
+width: 54px;
+height: 23px;
+left: 814px;
+top: 37px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+}
+
+.bottemplateicon{
+position: absolute;
+width: 125px;
+height: 23px;
+left: 919px;
+top: 37px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+}
+
+.whydcodeicon{
+position: absolute;
+width: 118px;
+height: 23px;
+left: 1074px;
+top: 37px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+}
+
+.contacticon{
+position: absolute;
+width: 71px;
+height: 23px;
+left: 1228px;
+top: 37px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+}
+
+.dcodemainicon{
+position: absolute;
+width: 116px;
+height: 37px;
+left: 79px;
+top: 37px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+
+.icon1{
+position: absolute;
+width: 44px;
+height: 50px;
+left: 35px;
+top: 34px;
+
+}
+
+.maintext{
+position: absolute;
+width: 443px;
+height: 174px;
+left: 79px;
+top: 285px;
+
+font-family: Telex;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 87px;
+
+color: #000000;
+}
+
+.text2{
+position: absolute;
+width: 457px;
+height: 90px;
+left: 88px;
+top: 497px;
+
+font-family: Telex;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+}
+
+.rectangle{
+    position: absolute;
+    width: 224px;
+    height: 55px;
+    left: 79px;
+    top: 634px;
+    
+    background: #E2AF7F;
+    border-radius: 10px;
+}
+
+.rectangletext{
+    position: absolute;
+    width: 178px;
+    height: 37px;
+    left: 115px;
+    top: 647px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+    
+}
+
+.icon2{
+    position: absolute;
+    width: 52px;
+    height: 49px;
+    left: 73px;
+    top: 740px;
+}
+.icon3{
+    position: absolute;
+    width: 48px;
+    height: 53px;
+    left: 257px;
+    top: 738px;
+}
+.icon4{
+    position: absolute;
+    width: 57px;
+    height: 63px;
+    left: 464px;
+    top: 733px;
+}
+.loginicon{
+position: absolute;
+width: 67px;
+height: 67px;
+left: 1331px;
+top: 14px;
+}
+
+.texticon1{
+    position: absolute;
+    width: 87px;
+    height: 49px;
+    left: 127px;
+    top: 742px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #000000;
+}
+.texticon2{
+    position: absolute;
+    width: 121px;
+    height: 42px;
+    left: 308px;
+    top: 745px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #000000;
+}
+.texticon3{
+    position: absolute;
+    width: 70px;
+    height: 48px;
+    left: 524px;
+    top: 743px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #000000;
+}
