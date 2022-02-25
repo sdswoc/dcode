@@ -1,0 +1,252 @@
+.homeicon{
+    position: absolute;
+    width: 54px;
+    height: 23px;
+    left: 814px;
+    top: 37px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #000000;
+}  
+.bottemplateicon{
+    position: absolute;
+    width: 125px;
+    height: 23px;
+    left: 919px;
+    top: 37px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #000000;
+}  
+.whydcodeicon{
+    position: absolute;
+    width: 118px;
+    height: 23px;
+    left: 1074px;
+    top: 37px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #000000;
+}   
+.contacticon{
+        position: absolute;
+    width: 71px;
+    height: 23px;
+    left: 1228px;
+    top: 37px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #000000;
+}   
+.dcodemainicon{
+    position: absolute;
+    width: 116px;
+    height: 37px;
+    left: 79px;
+    top: 37px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}   
+.icon1{
+    position: absolute;
+    width: 44px;
+    height: 50px;
+    left: 35px;
+    top: 34px;
+    
+}
+
+
+
+
+
+
+.rectangle2{
+position: absolute;
+width: 1408px;
+height: 431px;
+left: 10px;
+top: 157px;
+
+background: #E8B606;
+}
+.tempicona{
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 42px;
+    top: 205px;
+}
+.tempiconb{
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    left: 478px;
+    top: 280px;
+}
+.tempiconc{
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 984px;
+    top: 205px
+}
+.maintext{
+    position: absolute;
+width: 400px;
+height: 56px;
+left: 510px;
+top: 40px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+}
+.maintext2a{
+    position: absolute;
+    width: 302px;
+    height: 42px;
+    left: 108px;
+    top: 205px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    
+    color: #000000;
+}
+.maintext2b{
+    position: absolute;
+width: 290px;
+height: 88px;
+left: 568px;
+top: 277px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+}
+.maintext2c{
+    position: absolute;
+width: 231px;
+height: 49px;
+left: 1069px;
+top: 205px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+}
+.confesspic{
+position: absolute;
+width: 258px;
+height: 336px;
+left: 174px;
+top: 680px;
+
+background: url(Screen Shot 2022-02-24 at 4.49.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 20px;
+}
+.confessicon{
+    position: absolute;
+    width: 66px;
+    height: 60px;
+    left: 108px;
+    top: 1042px;
+    
+    background: url(.png);
+}
+.confessionbot{
+    position: absolute;
+width: 246px;
+height: 42px;
+left: 184px;
+top: 1057px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+}
+.bot2pic{
+    position: absolute;
+    width: 258px;
+    height: 336px;
+    left: 905px;
+    top: 680px;
+    
+    background: url(Screen Shot 2022-02-24 at 4.49.png);
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 20px;
+}
+.bot2icon{
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 885px;
+    top: 1033px;
+}
+.bot2{
+    position: absolute;
+    width: 149px;
+    height: 42px;
+    left: 977px;
+    top: 1053px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    
+    color: #000000;
+    
+}
